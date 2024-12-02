@@ -1,6 +1,6 @@
 ---
 title: "Presentación prueba"
-author: "Mª del Carmen"
+author: "maría del carmen AKA luca"
 format: 
   revealjs: 
     embed-resources: true #no crea carpeta basura
